@@ -225,4 +225,4 @@ console.log(verdict);
 
 ### Extensions
 
-Make up your own episode!
+Make up your own episode! *[Check file episodes/custom_episode.js]*
